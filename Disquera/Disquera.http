@@ -1,0 +1,6 @@
+@Disquera_HostAddress = http://localhost:5091
+
+GET {{Disquera_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
